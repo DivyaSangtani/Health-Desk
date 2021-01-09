@@ -5,5 +5,7 @@ Hello everyone, This was a minor project that I designed in the third year of my
 # Software requirements:
 
 User interface                          :      Java, Servlets
+
 Database                                :      MySQL
+
 Server                                  :      Tomcat9
